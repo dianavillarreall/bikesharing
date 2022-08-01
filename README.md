@@ -3,7 +3,7 @@ Performing analysis on the demand for bikes in New York City.
 ## Overview of the Analysis
 ### Purpose
 This analysis was created for an investor where we obtained the demand for bicycle rentals around New York City, so we can see the target audience for this service as well as the most optimal days and times during the week were business would pick as well as the best locations for the business. The analysis presented has a greater focus on the gender of the customers as well as the locations were the bicycles we being used
-For all images please refer to [Link to dashboard](https://public.tableau.com/app/profile/diana.villarreal1441/viz/Bikesharingchallenge_16593342147950/Story1?publish=yes)
+For all images please refer to [Link to Story](https://public.tableau.com/app/profile/diana.villarreal1441/viz/Bikesharingchallenge_16593342147950/Story1?publish=yes)
 ## Results
 
 ### Outcomes
